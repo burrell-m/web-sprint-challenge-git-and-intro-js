@@ -200,7 +200,7 @@ const artists = [
     "paintings": 328
   }
 ]
-
+dummy first submission as I will need the weekend to complete this sprint due to work obligations.
 // 🖌🖼 M V P 🖼🖌 //
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 1 (not auto tested): 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
